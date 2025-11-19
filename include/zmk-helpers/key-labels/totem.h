@@ -21,7 +21,7 @@
 #define RT2  7
 #define RT3  8
 #define RT4  9
-#define LSW  38
+#define RT5  38
 
 #define LM0 14  // left-middle row
 #define LM1 13
